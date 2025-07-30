@@ -7,7 +7,7 @@ All work was completed by an individual team and achieved 46th place among 2490 
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 The framework of the proposed model is shown below:
 
@@ -27,5 +27,11 @@ The prediction results comparison of the proposed model is shown below:
 
 
 
-## 📁 Folder Structure
+## Folder Structure
+KDD_Cup_2022_Wind_Competition/
+├── Figure/ # contains model figure (fig1.png)
+├── data/ # raw and processed wind data
+├── model/ # model architecture and training scripts
+└── README.md
+
 
