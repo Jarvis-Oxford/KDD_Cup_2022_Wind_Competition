@@ -12,7 +12,7 @@ All work was completed by an individual team and achieved 46th place among 2490 
 The framework of the proposed model is shown below:
 
 <p align="center">
-  <img src="Figure/2911753913632_.pic.jpg" alt="Model Framework" width="600"/>
+  <img src="Figure/2911753913632_.pic.jpg" alt="Model Framework" width="400"/>
 </p>
 
 The model adopts a sequence-to-sequence structure using GRU units, with an attention layer aggregating encoded temporal information into context vectors before decoding.
@@ -22,7 +22,7 @@ The model adopts a sequence-to-sequence structure using GRU units, with an atten
 The prediction results comparison of the proposed model is shown below:
 
 <p align="center">
-  <img src="Figure/2901753913308_.pic.jpg" alt="Model Framework" width="600"/>
+  <img src="Figure/2901753913308_.pic.jpg" alt="Model Framework" width="400"/>
 </p>
 
 
