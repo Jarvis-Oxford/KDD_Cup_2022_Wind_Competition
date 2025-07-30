@@ -28,10 +28,15 @@ The prediction results comparison of the proposed model is shown below:
 
 
 ## Folder Structure
+
 KDD_Cup_2022_Wind_Competition/
-├── Figure/ # contains model figure (fig1.png)
-├── data/ # raw and processed wind data
-├── model/ # model architecture and training scripts
-└── README.md
+├── Figure/ # Contains model figures (e.g., fig1.png, result.png)
+├── data/ # Raw and processed wind power data
+├── model/ # Model architecture and training scripts
+├── utils/ # Utility functions and metrics
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies
+
+
 
 
